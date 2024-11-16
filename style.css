@@ -193,7 +193,7 @@ main{
     padding: 2% 0;
     position: relative;
     height: 25vh;
-    h1{
+    & h1{
        
         padding-top: 1.7rem;
         margin-bottom: 0.7rem;
