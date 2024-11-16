@@ -592,7 +592,7 @@ input{
         }
     }
     .item1{
-        height: 34%;
+        height: 33%;
     }
     .vo{
         width: 100%;
@@ -600,7 +600,7 @@ input{
         overflow-x: scroll;
         scrollbar-width: none;
         position: absolute;
-        top: 73.5%;
+        top: 80%;
     }
     .conterofitem1{
         width: max-content;
