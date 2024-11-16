@@ -591,6 +591,9 @@ input{
         font-size: clamp(1.2rem, 0.827rem + 2.485vw, 2rem);
         }
     }
+    .item1{
+        height: 33%;
+    }
     .vo{
         width: 100%;
         overflow: hidden;
