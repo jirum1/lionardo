@@ -83,12 +83,13 @@ hr{
         width: 2.5rem;
     }
 }
-& span{
+
+span{
     background:var(--colores) ;
     overflow: hidden;
     background-clip: text;
     -wibkit-background-clip: text;
-    color: transparent;
+    color:transparent;
 }
 .accimge {
     display: flex;
@@ -686,7 +687,7 @@ input{
         border-radius: 0;
         height: 100%;
         width: 7rem;
-        padding: 0rem 0rem;
+        padding: 0.5rem 0rem 0rem;
     }
     .content:first-child,.content:last-child{
         border-radius: 0 !important;
