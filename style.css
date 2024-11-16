@@ -628,7 +628,7 @@ input{
         border-radius: 0 !important;
     }
     .futerscontener{
-        margin-top: 8%;
+        margin-top:clamp(3rem, 5.286rem + -15.238vw, 1rem);
     }
 }
 @media (min-width: 500px) and (max-width: 755px) {
